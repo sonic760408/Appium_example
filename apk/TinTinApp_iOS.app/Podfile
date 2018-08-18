@@ -1,0 +1,56 @@
+# Uncomment the next line to define a global platform for your project
+#platform :ios, '9.0'
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'TinTinApp_iOS' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+
+  # Pods for TinTinApp_iOS
+  use_frameworks!
+  pod 'Firebase' #firebase
+  pod 'Firebase/Core'
+  pod 'Firebase/Messaging'
+  pod 'Firebase/RemoteConfig'
+  pod 'FirebaseInstanceID'
+  pod 'FirebaseAnalytics'
+  
+  pod 'Material', '~> 2.0.0' #material design
+  pod 'Alamofire', '~> 4.0' #Alamofire http
+  pod 'Gloss', '~> 1.2.4' #gloss json
+  # pod 'SwipeCellKit' #swipe table cell
+  pod 'GoogleMaps' #google map
+  pod 'GooglePlaces' #google place
+  # pod 'NVActivityIndicatorView' #activity indicator view
+  # pod 'Toast-Swift', '~> 2.0.0' #android toast
+  pod 'SDWebImage', '~>4.1.2' #SD Image #ImageSlideshow dependency
+  pod 'SwiftGifOrigin', '~> 1.6.1'
+  # pod 'BGTableViewRowActionWithImage' #Tableviewrow
+  pod 'AFNetworking' #ImageSlideshow dependency
+  pod 'RSBarcodes_Swift', '~> 3.0.3' #qrcode
+  # pod 'UIScrollView-InfiniteScroll', '~> 1.0.0' #infinite scrollview
+  # pod 'CryptoSwift' #swift crypt
+  # pod 'SDCAlertView', '~> 7.1' #SDCAlertView
+  pod 'SnapKit', '~> 3.2.0' #Snapkit
+  # pod 'SwiftyBeaver'
+  # pod 'SwiftyJSON'
+  # pod 'XCGLogger', '~> 5.0.1' #Logger
+  pod 'TAKUUID', '~> 1.5.0' #UUID Util
+  pod 'AKImageCropperView', '~> 2.0.0' #crop image
+  
+  pod 'IQKeyboardManagerSwift', '~> 5.0.0'
+  
+  #pod 'PusherSwift' #swift pusher
+  
+  #pod 'NSLogger/Swift'
+
+  target 'TinTinApp_iOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+  
+  target 'TinTinApp_iOSUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

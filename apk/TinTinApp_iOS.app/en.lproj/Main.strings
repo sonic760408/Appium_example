@@ -1,0 +1,396 @@
+
+/* Class = "UIBarButtonItem"; title = "取消"; ObjectID = "18d-xv-m7C"; */
+"18d-xv-m7C.title" = "取消";
+
+/* Class = "UILabel"; text = "服務時間:\n週一~週五: 08:30 ~ 17:30\n週六: 09:00 ~ 17:00\n週日與國定假日公休"; ObjectID = "1ZI-m5-uGa"; */
+"1ZI-m5-uGa.text" = "服務時間:\n週一~週五: 08:30 ~ 17:30\n週六: 09:00 ~ 17:00\n週日與國定假日公休";
+
+/* Class = "UIViewController"; title = "Container_Shop"; ObjectID = "1ps-F9-peK"; */
+"1ps-F9-peK.title" = "Container_Shop";
+
+/* Class = "UILabel"; text = "注意事項:"; ObjectID = "27z-OX-xKj"; */
+"27z-OX-xKj.text" = "注意事項:";
+
+/* Class = "UILabel"; text = "目前沒有系統公告"; ObjectID = "2Mv-iw-y1H"; */
+"2Mv-iw-y1H.text" = "目前沒有系統公告";
+
+/* Class = "UITextField"; placeholder = "請輸入使用者帳號"; ObjectID = "2ip-cV-80N"; */
+"2ip-cV-80N.placeholder" = "請輸入使用者帳號";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "3Ry-Oy-da4"; */
+"3Ry-Oy-da4.text" = "-";
+
+/* Class = "UILabel"; text = "目前沒有兌換記錄"; ObjectID = "56K-dh-jhM"; */
+"56K-dh-jhM.text" = "目前沒有兌換記錄";
+
+/* Class = "UIButton"; normalTitle = "確認送出"; ObjectID = "5Ph-Hl-mAG"; */
+"5Ph-Hl-mAG.normalTitle" = "確認送出";
+
+/* Class = "UILabel"; text = "服務條款"; ObjectID = "5RT-4r-SLb"; */
+"5RT-4r-SLb.text" = "服務條款";
+
+/* Class = "UILabel"; text = "第二個寶寶姓名"; ObjectID = "5oH-xh-H9Z"; */
+"5oH-xh-H9Z.text" = "第二個寶寶姓名";
+
+/* Class = "UILabel"; text = "目前沒有活動訊息"; ObjectID = "6J4-ys-cAO"; */
+"6J4-ys-cAO.text" = "目前沒有活動訊息";
+
+/* Class = "UIButton"; normalTitle = "確定送出"; ObjectID = "6Nb-ag-xwm"; */
+"6Nb-ag-xwm.normalTitle" = "確定送出";
+
+/* Class = "UILabel"; text = "  "; ObjectID = "6fK-7d-8u6"; */
+"6fK-7d-8u6.text" = "  ";
+
+/* Class = "UILabel"; text = "是否願意收到會員通知"; ObjectID = "8fh-lM-AUu"; */
+"8fh-lM-AUu.text" = "是否願意收到會員通知";
+
+/* Class = "UILabel"; text = "職業"; ObjectID = "9IZ-d5-G6I"; */
+"9IZ-d5-G6I.text" = "職業";
+
+/* Class = "UILabel"; text = "活動通知"; ObjectID = "9TG-Dh-X7w"; */
+"9TG-Dh-X7w.text" = "活動通知";
+
+/* Class = "UILabel"; text = "您好"; ObjectID = "9Uh-rz-isD"; */
+"9Uh-rz-isD.text" = "您好";
+
+/* Class = "UITableViewSection"; headerTitle = "關於我們"; ObjectID = "ABL-EI-o0u"; */
+"ABL-EI-o0u.headerTitle" = "關於我們";
+
+/* Class = "UILabel"; text = "網路會員資料"; ObjectID = "AVA-Qx-zhn"; */
+"AVA-Qx-zhn.text" = "網路會員資料";
+
+/* Class = "UILabel"; text = "健保藥局"; ObjectID = "Aon-vC-gQS"; */
+"Aon-vC-gQS.text" = "健保藥局";
+
+/* Class = "UILabel"; text = "網路會員折價券"; ObjectID = "AqZ-rv-CAL"; */
+"AqZ-rv-CAL.text" = "網路會員折價券";
+
+/* Class = "UITextField"; placeholder = "登入密碼"; ObjectID = "BIx-c3-pav"; */
+"BIx-c3-pav.placeholder" = "登入密碼";
+
+/* Class = "UILabel"; text = "電話/手機:"; ObjectID = "BdR-aj-UzS"; */
+"BdR-aj-UzS.text" = "電話/手機:";
+
+/* Class = "UILabel"; text = "商品類別: "; ObjectID = "BkF-tL-dws"; */
+"BkF-tL-dws.text" = "商品類別: ";
+
+/* Class = "UILabel"; text = "點此閱讀\"丁丁藥局服務條款\""; ObjectID = "CKa-8j-YvF"; */
+"CKa-8j-YvF.text" = "點此閱讀\"丁丁藥局服務條款\"";
+
+/* Class = "UILabel"; text = "清除快取"; ObjectID = "CMS-cl-BUN"; */
+"CMS-cl-BUN.text" = "清除快取";
+
+/* Class = "UILabel"; text = "分店一覽"; ObjectID = "Cae-Ee-pFG"; */
+"Cae-Ee-pFG.text" = "分店一覽";
+
+/* Class = "UIViewController"; title = "ShopListContainer"; ObjectID = "Cf5-kk-hts"; */
+"Cf5-kk-hts.title" = "ShopListContainer";
+
+/* Class = "UIButton"; normalTitle = "點此兌換"; ObjectID = "D4B-1U-PnL"; */
+"D4B-1U-PnL.normalTitle" = "點此兌換";
+
+/* Class = "UILabel"; text = "以下兌換券使用操作請交給店員進行處理"; ObjectID = "DTc-kL-GOs"; */
+"DTc-kL-GOs.text" = "以下兌換券使用操作請交給店員進行處理";
+
+/* Class = "UILabel"; text = "卡號:"; ObjectID = "DTi-0E-MqV"; */
+"DTi-0E-MqV.text" = "卡號:";
+
+/* Class = "UILabel"; text = "登出"; ObjectID = "DV1-dj-HML"; */
+"DV1-dj-HML.text" = "登出";
+
+/* Class = "UILabel"; text = "問題描述"; ObjectID = "DwM-7G-cGJ"; */
+"DwM-7G-cGJ.text" = "問題描述";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "EFV-4U-083"; */
+"EFV-4U-083.text" = "-";
+
+/* Class = "UILabel"; text = "子女扶養數"; ObjectID = "EQK-wO-YAE"; */
+"EQK-wO-YAE.text" = "子女扶養數";
+
+/* Class = "UILabel"; text = "特價優惠"; ObjectID = "EvW-U3-MUW"; */
+"EvW-U3-MUW.text" = "特價優惠";
+
+/* Class = "UILabel"; text = "- XXXX -"; ObjectID = "F8C-ZG-fDd"; */
+"F8C-ZG-fDd.text" = "- XXXX -";
+
+/* Class = "UILabel"; text = "姓名"; ObjectID = "FGL-0e-Nhz"; */
+"FGL-0e-Nhz.text" = "姓名";
+
+/* Class = "UIButton"; normalTitle = "刪除"; ObjectID = "FKj-Bv-NzH"; */
+"FKj-Bv-NzH.normalTitle" = "刪除";
+
+/* Class = "UILabel"; text = "請填妥以下所有欄位的資訊 以利於問題回報: "; ObjectID = "INU-j3-GOx"; */
+"INU-j3-GOx.text" = "請填妥以下所有欄位的資訊 以利於問題回報: ";
+
+/* Class = "UILabel"; text = "卡號:"; ObjectID = "JYP-7M-dTu"; */
+"JYP-7M-dTu.text" = "卡號:";
+
+/* Class = "UILabel"; text = "電話(與手機擇一填)"; ObjectID = "JZL-gP-gM8"; */
+"JZL-gP-gM8.text" = "電話(與手機擇一填)";
+
+/* Class = "UILabel"; text = "設定登入密碼(必填)"; ObjectID = "LEt-c3-ddt"; */
+"LEt-c3-ddt.text" = "設定登入密碼(必填)";
+
+/* Class = "UITableViewSection"; headerTitle = "會員相關"; ObjectID = "M1R-YA-sfe"; */
+"M1R-YA-sfe.headerTitle" = "會員相關";
+
+/* Class = "UIViewController"; title = "Container_Sales"; ObjectID = "Mlb-wJ-SZf"; */
+"Mlb-wJ-SZf.title" = "Container_Sales";
+
+/* Class = "UIButton"; normalTitle = "分店位置"; ObjectID = "Muu-gf-Bqv"; */
+"Muu-gf-Bqv.normalTitle" = "分店位置";
+
+/* Class = "UILabel"; text = "卡號"; ObjectID = "N13-eW-v16"; */
+"N13-eW-v16.text" = "卡號";
+
+/* Class = "UILabel"; text = "第三個寶寶姓名"; ObjectID = "NnZ-TV-G8g"; */
+"NnZ-TV-G8g.text" = "第三個寶寶姓名";
+
+/* Class = "UILabel"; text = "訊息種類:"; ObjectID = "OTd-fL-oN9"; */
+"OTd-fL-oN9.text" = "訊息種類:";
+
+/* Class = "UILabel"; text = "家庭月收入"; ObjectID = "P9f-Yq-97M"; */
+"P9f-Yq-97M.text" = "家庭月收入";
+
+/* Class = "UILabel"; text = "關鍵字至少2個字元(不含空白)\n搜尋範例: \"奶粉\" \n即可找出所有包含\"奶粉\"的特價品"; ObjectID = "Pjj-Hm-iGF"; */
+"Pjj-Hm-iGF.text" = "關鍵字至少2個字元(不含空白)\n搜尋範例: \"奶粉\" \n即可找出所有包含\"奶粉\"的特價品";
+
+/* Class = "UILabel"; text = "第一個寶寶生日"; ObjectID = "PlG-uj-rbc"; */
+"PlG-uj-rbc.text" = "第一個寶寶生日";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Q60-3k-XSH"; */
+"Q60-3k-XSH.text" = "Label";
+
+/* Class = "UILabel"; text = "聯名卡贈品兌換"; ObjectID = "Q8A-VP-Oyo"; */
+"Q8A-VP-Oyo.text" = "聯名卡贈品兌換";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "QZQ-ct-TN5"; */
+"QZQ-ct-TN5.text" = "-";
+
+/* Class = "UILabel"; text = "訂單編號(非訂單問題可空)"; ObjectID = "Qgh-LS-7fw"; */
+"Qgh-LS-7fw.text" = "訂單編號(非訂單問題可空)";
+
+/* Class = "UIButton"; normalTitle = "重新整理"; ObjectID = "R6j-tf-0WN"; */
+"R6j-tf-0WN.normalTitle" = "重新整理";
+
+/* Class = "UILabel"; text = "若您有各種商品或購物上的問題 歡迎使用問題回報機制回覆, 感謝您的意見回饋"; ObjectID = "RqM-cm-xy8"; */
+"RqM-cm-xy8.text" = "若您有各種商品或購物上的問題 歡迎使用問題回報機制回覆, 感謝您的意見回饋";
+
+/* Class = "UIButton"; normalTitle = "前往購物網頁"; ObjectID = "Ryq-kk-cRg"; */
+"Ryq-kk-cRg.normalTitle" = "前往購物網頁";
+
+/* Class = "UILabel"; text = "分店代碼"; ObjectID = "SkF-rL-56X"; */
+"SkF-rL-56X.text" = "分店代碼";
+
+/* Class = "UILabel"; text = "電子報訂閱"; ObjectID = "TgN-i7-f6Y"; */
+"TgN-i7-f6Y.text" = "電子報訂閱";
+
+/* Class = "UILabel"; text = "歡迎登入丁丁會員"; ObjectID = "Tmi-cU-Hh1"; */
+"Tmi-cU-Hh1.text" = "歡迎登入丁丁會員";
+
+/* Class = "UILabel"; text = "第三個寶寶生日"; ObjectID = "Trt-af-Q63"; */
+"Trt-af-Q63.text" = "第三個寶寶生日";
+
+/* Class = "UILabel"; text = "變更密碼"; ObjectID = "U3c-ow-XGG"; */
+"U3c-ow-XGG.text" = "變更密碼";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "UJX-cn-K3E"; */
+"UJX-cn-K3E.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "點此設定日期"; ObjectID = "UKG-Vg-GDh"; */
+"UKG-Vg-GDh.text" = "點此設定日期";
+
+/* Class = "UILabel"; accessibilityLabel = "barcode"; ObjectID = "UWf-WQ-LO6"; */
+"UWf-WQ-LO6.accessibilityLabel" = "barcode";
+
+/* Class = "UILabel"; text = "兌換店:"; ObjectID = "Uyk-Z0-bd3"; */
+"Uyk-Z0-bd3.text" = "兌換店:";
+
+/* Class = "UILabel"; text = "取消訂閱紙本DM"; ObjectID = "VWc-a2-Wbl"; */
+"VWc-a2-Wbl.text" = "取消訂閱紙本DM";
+
+/* Class = "UIButton"; normalTitle = "搜尋"; ObjectID = "VqO-3i-B8x"; */
+"VqO-3i-B8x.normalTitle" = "搜尋";
+
+/* Class = "UILabel"; text = "時間:"; ObjectID = "Vtw-Mw-gKp"; */
+"Vtw-Mw-gKp.text" = "時間:";
+
+/* Class = "UILabel"; text = "身分證字號"; ObjectID = "WGe-p8-ejH"; */
+"WGe-p8-ejH.text" = "身分證字號";
+
+/* Class = "UILabel"; text = "  "; ObjectID = "XKt-jo-Icy"; */
+"XKt-jo-Icy.text" = "  ";
+
+/* Class = "UILabel"; text = "教育程度"; ObjectID = "XPS-1y-IPS"; */
+"XPS-1y-IPS.text" = "教育程度";
+
+/* Class = "UILabel"; text = "顧客姓名"; ObjectID = "YzP-5E-nI5"; */
+"YzP-5E-nI5.text" = "顧客姓名";
+
+/* Class = "UIButton"; normalTitle = "登入"; ObjectID = "Z2J-ls-yak"; */
+"Z2J-ls-yak.normalTitle" = "登入";
+
+/* Class = "UILabel"; text = "請輸入紅利卡卡號前8碼+後4碼 或者是輸入電話/手機號碼 即可搜尋最近30天兌換紀錄"; ObjectID = "ZIh-XF-MH3"; */
+"ZIh-XF-MH3.text" = "請輸入紅利卡卡號前8碼+後4碼 或者是輸入電話/手機號碼 即可搜尋最近30天兌換紀錄";
+
+/* Class = "UIButton"; normalTitle = "確認兌換"; ObjectID = "ZWS-6f-5s1"; */
+"ZWS-6f-5s1.normalTitle" = "確認兌換";
+
+/* Class = "UILabel"; text = "  "; ObjectID = "ZbW-SJ-8B5"; */
+"ZbW-SJ-8B5.text" = "  ";
+
+/* Class = "UILabel"; text = "分店地圖"; ObjectID = "ZhU-sL-c4D"; */
+"ZhU-sL-c4D.text" = "分店地圖";
+
+/* Class = "UILabel"; text = "目前沒有可兌換禮品"; ObjectID = "a2x-C3-p70"; */
+"a2x-C3-p70.text" = "目前沒有可兌換禮品";
+
+/* Class = "UILabel"; text = "內文:"; ObjectID = "aie-n6-Qom"; */
+"aie-n6-Qom.text" = "內文:";
+
+/* Class = "UILabel"; text = "生日"; ObjectID = "bbU-a3-87N"; */
+"bbU-a3-87N.text" = "生日";
+
+/* Class = "UILabel"; text = "  "; ObjectID = "bje-VY-hY4"; */
+"bje-VY-hY4.text" = "  ";
+
+/* Class = "UIButton"; normalTitle = "搜尋"; ObjectID = "bpE-xS-Nle"; */
+"bpE-xS-Nle.normalTitle" = "搜尋";
+
+/* Class = "UILabel"; text = "撥號"; ObjectID = "cDa-Vx-bFT"; */
+"cDa-Vx-bFT.text" = "撥號";
+
+/* Class = "UILabel"; text = "活動快報"; ObjectID = "f5N-qC-9vI"; */
+"f5N-qC-9vI.text" = "活動快報";
+
+/* Class = "UILabel"; text = "電話/手機:"; ObjectID = "f87-GV-XpW"; */
+"f87-GV-XpW.text" = "電話/手機:";
+
+/* Class = "UIBarButtonItem"; title = "裁切"; ObjectID = "fNX-OP-kQT"; */
+"fNX-OP-kQT.title" = "裁切";
+
+/* Class = "UILabel"; text = "現金紅利卡綁定"; ObjectID = "fhD-ue-hYZ"; */
+"fhD-ue-hYZ.text" = "現金紅利卡綁定";
+
+/* Class = "UILabel"; text = "說明:"; ObjectID = "foF-cw-xxC"; */
+"foF-cw-xxC.text" = "說明:";
+
+/* Class = "UIButton"; normalTitle = "綁定紅利卡"; ObjectID = "gLu-Bt-k02"; */
+"gLu-Bt-k02.normalTitle" = "綁定紅利卡";
+
+/* Class = "UILabel"; text = "歡迎使用紅利卡綁定功能"; ObjectID = "gZk-yN-Ly5"; */
+"gZk-yN-Ly5.text" = "歡迎使用紅利卡綁定功能";
+
+/* Class = "UILabel"; text = "FB粉絲團"; ObjectID = "h0f-Ld-JnT"; */
+"h0f-Ld-JnT.text" = "FB粉絲團";
+
+/* Class = "UILabel"; text = "組數:"; ObjectID = "hED-3p-0ok"; */
+"hED-3p-0ok.text" = "組數:";
+
+/* Class = "UILabel"; text = "姓名和性別(必填)"; ObjectID = "iRC-4T-Ka2"; */
+"iRC-4T-Ka2.text" = "姓名和性別(必填)";
+
+/* Class = "UILabel"; text = "第一個寶寶姓名"; ObjectID = "jbt-xr-DZf"; */
+"jbt-xr-DZf.text" = "第一個寶寶姓名";
+
+/* Class = "UILabel"; text = "若您有各種APP功能建議,系統問題等等, 歡迎回信到客服信箱, 感謝您的建議"; ObjectID = "kP8-Aw-6cn"; */
+"kP8-Aw-6cn.text" = "若您有各種APP功能建議,系統問題等等, 歡迎回信到客服信箱, 感謝您的建議";
+
+/* Class = "UILabel"; text = "會員通知"; ObjectID = "kzI-eH-KbS"; */
+"kzI-eH-KbS.text" = "會員通知";
+
+/* Class = "UITextField"; placeholder = "請輸入關鍵字(至少2位)"; ObjectID = "lFA-mR-fn0"; */
+"lFA-mR-fn0.placeholder" = "請輸入關鍵字(至少2位)";
+
+/* Class = "UILabel"; text = "手機(與電話擇一填)"; ObjectID = "lyl-5A-geC"; */
+"lyl-5A-geC.text" = "手機(與電話擇一填)";
+
+/* Class = "UILabel"; text = "居住地址(必填)"; ObjectID = "mLa-f5-IH9"; */
+"mLa-f5-IH9.text" = "居住地址(必填)";
+
+/* Class = "UILabel"; text = "標題:"; ObjectID = "mLt-C4-OEP"; */
+"mLt-C4-OEP.text" = "標題:";
+
+/* Class = "UILabel"; text = "客服信箱"; ObjectID = "nDg-zk-Q8K"; */
+"nDg-zk-Q8K.text" = "客服信箱";
+
+/* Class = "UILabel"; text = "請將要掃描的條碼放置在畫面中央"; ObjectID = "nbx-hO-Qvf"; */
+"nbx-hO-Qvf.text" = "請將要掃描的條碼放置在畫面中央";
+
+/* Class = "UILabel"; text = "請先登入"; ObjectID = "oAc-57-Gw2"; */
+"oAc-57-Gw2.text" = "請先登入";
+
+/* Class = "UILabel"; text = "第二個寶寶生日"; ObjectID = "oXf-Fc-JKS"; */
+"oXf-Fc-JKS.text" = "第二個寶寶生日";
+
+/* Class = "UILabel"; text = "目前沒有會員通知"; ObjectID = "ptV-Uo-Y1T"; */
+"ptV-Uo-Y1T.text" = "目前沒有會員通知";
+
+/* Class = "UILabel"; text = "請輸入以下資訊來進行綁定\n(點選右上角圖示可以掃描紅利卡條碼輸入卡號)"; ObjectID = "q9n-Yy-zdd"; */
+"q9n-Yy-zdd.text" = "請輸入以下資訊來進行綁定\n(點選右上角圖示可以掃描紅利卡條碼輸入卡號)";
+
+/* Class = "UILabel"; text = "是否願意收到最新活動通知"; ObjectID = "qPo-2u-l5x"; */
+"qPo-2u-l5x.text" = "是否願意收到最新活動通知";
+
+/* Class = "UILabel"; text = "聯絡我們"; ObjectID = "r6O-mi-40A"; */
+"r6O-mi-40A.text" = "聯絡我們";
+
+/* Class = "UILabel"; text = "DM一覽"; ObjectID = "rTs-nF-lsf"; */
+"rTs-nF-lsf.text" = "DM一覽";
+
+/* Class = "UILabel"; text = "聯絡電話"; ObjectID = "sYg-ZC-NRi"; */
+"sYg-ZC-NRi.text" = "聯絡電話";
+
+/* Class = "UILabel"; text = "備用電子郵件信箱"; ObjectID = "snG-YX-bWS"; */
+"snG-YX-bWS.text" = "備用電子郵件信箱";
+
+/* Class = "UILabel"; text = "生日"; ObjectID = "t9l-eW-1Gd"; */
+"t9l-eW-1Gd.text" = "生日";
+
+/* Class = "UILabel"; text = "付費停車場"; ObjectID = "tG7-h8-98f"; */
+"tG7-h8-98f.text" = "付費停車場";
+
+/* Class = "UILabel"; text = "使用期限"; ObjectID = "tJ6-Rd-Ujw"; */
+"tJ6-Rd-Ujw.text" = "使用期限";
+
+/* Class = "UIButton"; normalTitle = "忘記密碼"; ObjectID = "tPy-JB-TLj"; */
+"tPy-JB-TLj.normalTitle" = "忘記密碼";
+
+/* Class = "UILabel"; text = "捷運站"; ObjectID = "tQD-k1-ZUd"; */
+"tQD-k1-ZUd.text" = "捷運站";
+
+/* Class = "UILabel"; text = "電子郵件信箱(必填)"; ObjectID = "tZN-Mq-ZIl"; */
+"tZN-Mq-ZIl.text" = "電子郵件信箱(必填)";
+
+/* Class = "UILabel"; text = "APP版本"; ObjectID = "u6k-4A-vLr"; */
+"u6k-4A-vLr.text" = "APP版本";
+
+/* Class = "UILabel"; text = "聯絡電子信箱"; ObjectID = "u8i-vt-nFy"; */
+"u8i-vt-nFy.text" = "聯絡電子信箱";
+
+/* Class = "UIButton"; normalTitle = "回覆"; ObjectID = "uAO-J5-3ig"; */
+"uAO-J5-3ig.normalTitle" = "回覆";
+
+/* Class = "UILabel"; text = "設定會員登入帳號(必填)"; ObjectID = "uRV-df-rlC"; */
+"uRV-df-rlC.text" = "設定會員登入帳號(必填)";
+
+/* Class = "UILabel"; text = "問題回報"; ObjectID = "ueL-ed-FAu"; */
+"ueL-ed-FAu.text" = "問題回報";
+
+/* Class = "UIBarButtonItem"; title = "重設"; ObjectID = "wCA-Z0-KCr"; */
+"wCA-Z0-KCr.title" = "重設";
+
+/* Class = "UILabel"; text = "私有停車場"; ObjectID = "xci-T6-0vk"; */
+"xci-T6-0vk.text" = "私有停車場";
+
+/* Class = "UITableViewSection"; headerTitle = "一般"; ObjectID = "xqo-c3-hiG"; */
+"xqo-c3-hiG.headerTitle" = "一般";
+
+/* Class = "UIButton"; normalTitle = "還沒有帳號嗎? 立即註冊"; ObjectID = "yKU-GP-N5g"; */
+"yKU-GP-N5g.normalTitle" = "還沒有帳號嗎? 立即註冊";
+
+/* Class = "UILabel"; text = "會員功能"; ObjectID = "yLS-Ol-9Yz"; */
+"yLS-Ol-9Yz.text" = "會員功能";
+
+/* Class = "UILabel"; text = "- XXXX -"; ObjectID = "yrG-Ht-mBe"; */
+"yrG-Ht-mBe.text" = "- XXXX -";
